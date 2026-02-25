@@ -1,2 +1,1 @@
-# store
-store vsacheat
+store.vsacheat.com
